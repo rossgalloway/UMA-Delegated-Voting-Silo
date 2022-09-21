@@ -3,7 +3,8 @@ sidebar_label: 'Application 📝'
 sidebar_position: 1
 ---
 
-# UMA Delegated Voting - Grant #1
+# UMA Delegated Voting
+# Grant #1
 
 | Info                  |                                          |
 | -----------------     | ---------------------------------        |
